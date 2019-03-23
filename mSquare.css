@@ -1,0 +1,85 @@
+/*body{
+	background-image: url("https://www.trafalgar.com/~/media/images/website-refresh/hero/amazingireland-hero-177255290.jpg?mw=1200&");
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+#title{
+	color:black;
+	text-align: center;
+}
+/*dd=red mm=white cc=green yy=blue*/
+#dd{
+	background-color: lightsalmon;
+	width:14%;
+	color:black;
+	margin-right: 10px;
+}
+#mm{
+	background-color: white;
+	width:14%;
+	color:black;
+	margin-right: 10px;
+}
+#cc{
+	background-color:lawngreen;
+	width:14%;
+	color:black;
+	margin-right: 10px;
+}
+#yy{
+	background-color:aquamarine;
+	width:14%;
+	color:black;
+	margin-right: 10px;
+}
+#reset{
+	color:black;
+	margin-top:10px;
+	margin-right: 10px;
+}
+#create{
+	color:black;
+	margin-top:10px;
+	margin-right: 10px;	
+}
+.row{
+	width:75%;
+	align-self: center;
+
+
+}
+.col-md-2{
+	background-color: purple;
+	border:1px solid orange;
+	/*margin:1px;*/
+	height:100px;
+	
+}
+h1{
+	color:white;
+	text-align: center;
+	background:steelblue;
+	/*margin-left:1.66%;*/
+	font-weight:normal;
+	line-height: 1.1;
+	text-transform: uppercase;
+	padding:20px 0;
+}
+.ddd{
+	background-color: lightsalmon;
+
+}
+.mmm{
+	background-color: white;
+}
+.ccc{
+	background-color: lawngreen;
+}
+.yyy{
+	background-color: aquamarine;
+}
+.container{
+	background: #BDB76B;
+	background-size: cover;
+
+}
